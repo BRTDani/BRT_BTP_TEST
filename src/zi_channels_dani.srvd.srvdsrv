@@ -1,0 +1,5 @@
+@EndUserText.label: 'Service definition for Channels'
+define service ZI_CHANNELS_DANI {
+  expose ZI_CHANNELS_DANI as Channels;
+  expose ZI_CHANNELS_CONF as ChannelsConfig;
+}
